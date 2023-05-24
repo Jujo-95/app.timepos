@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/assets/fonts/Alegreya-SemiBold.ttf": "87a27f46ac96de4f02068d4e3b960f81",
 "assets/FontManifest.json": "6b2fe6c6a4c22b6cf58265c7fe234e4d",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "a1d6a0fdc227764bb755c7430209b717",
+"assets/NOTICES": "028c84c80eb2b8101a3a3ec52355a1b8",
 "assets/packages/countries/assets/ad.png": "8312ea200df9dd539e27c116939db42c",
 "assets/packages/countries/assets/ae.png": "7ff210c9d922e6047b30241b5176948b",
 "assets/packages/countries/assets/af.png": "4b0f402972e53c96146b67d621682070",
@@ -533,9 +533,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f2d7265c78ee856f2a524fe1c27dcdfb",
-"/": "f2d7265c78ee856f2a524fe1c27dcdfb",
-"main.dart.js": "87f9818d1fd368945a358c1a4779b2a9",
+"index.html": "d33249daed208d477c993b22b489c42e",
+"/": "d33249daed208d477c993b22b489c42e",
+"main.dart.js": "99234950a3de3484013d0634f60f2ba5",
 "manifest.json": "743fdf655fa9b54d071ca4678e2b7be1",
 "version.json": "6d7cd93a5cb0a5e5c032fb3c84c0872c"
 };
