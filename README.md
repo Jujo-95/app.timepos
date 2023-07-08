@@ -1,1 +1,1 @@
-# expenses-app
+# tiepmos app
